@@ -5,6 +5,6 @@ compatibility_date = "2025-01-01"
 # Needed for the admin (saves products + demo orders).
 # 1) npx wrangler kv namespace create SHOP_KV
 # 2) paste the id below and uncomment
- [[kv_namespaces]]
- binding = "SHOP_KV"
- id = "e537b957b1a34719b51381854c46b518"
+[[kv_namespaces]]
+binding = "SHOP_KV"
+id = "e537b957b1a34719b51381854c46b518"
