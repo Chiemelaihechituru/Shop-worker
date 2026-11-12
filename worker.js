@@ -131,7 +131,7 @@ footer{padding:30px 20px;color:var(--mut);font-size:14px}
     'key' : 'c00d63e4b0e0ca3b899cde43a3d82fee',
     'format' : 'iframe',
     'height' : 50,
-    'width' : 340,
+    'width' : 360,
     'params' : {}
   };
 </script>
