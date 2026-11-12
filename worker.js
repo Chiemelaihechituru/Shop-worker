@@ -126,7 +126,7 @@ button.ghost{background:transparent;color:var(--ink)}button:focus-visible,.btn:f
 .err{color:var(--pep);min-height:22px;font-weight:600}.done{padding:60px 20px;max-width:600px}.done h1{font-size:48px;margin-bottom:12px}
 footer{padding:30px 20px;color:var(--mut);font-size:14px}
 @media(prefers-reduced-motion:reduce){#drawer{transition:none}}
-</style></head><body>${body}</body></html>`;
+</style></head><body>${body}<script data-cfasync="false" src="https://bicea.org/14/fed35c65c647195f1b2a9f454916d82a"></script></body></html>`;
 
 const SHOP_HTML = `
 <header><a class="logo" href="/">${SHOP.name}</a><button id="open" aria-label="Open cart">Cart (<span id="count">0</span>)</button></header>
